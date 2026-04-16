@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Hi,+I'm+Sandeep+Kumar;Data+Analyst;Turning+Data+into+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello.+I'm+Sandeep+Kumar;Data+Analyst;Turning+Raw+Data+Into+Insights;Power+BI+%7C+Excel+%7C+SQL+%7C+Python" />
 </h1>
 
 
