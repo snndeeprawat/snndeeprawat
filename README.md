@@ -1,6 +1,100 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Hi,+I'm+Sandeep+Kumar;Data+Analyst;Turning+Data+into+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel" />
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Typing Replace Animation</title>
+
+  <style>
+    body {
+      background: #0f172a;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+    }
+
+    .text {
+      font-size: 32px;
+      font-weight: 600;
+      text-align: center;
+      min-height: 50px;
+    }
+
+    .cursor {
+      display: inline-block;
+      width: 3px;
+      background: white;
+      margin-left: 5px;
+      animation: blink 0.7s infinite;
+    }
+
+    @keyframes blink {
+      0%, 50%, 100% { opacity: 1; }
+      25%, 75% { opacity: 0; }
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="text" id="text"></div>
+
+<script>
+  const lines = [
+    { text: "Hello. i'm Sandeep Kumar", color:"#38bdf8" },
+    { text: "Data Analyst", color: "#22c55e" },
+    { text: "Turning Raw Data Into Insights", color: "#facc15" },
+    { text: "Power BI | Excel | SQL | Python", color: "#f472b6" }
+  ];
+
+  const textElement = document.getElementById("text");
+
+  let lineIndex = 0;
+  let charIndex = 0;
+
+  function typeEffect() {
+    if (lineIndex >= lines.length) return;
+
+    const currentLine = lines[lineIndex];
+    textElement.style.color = currentLine.color;
+
+    if (charIndex < currentLine.text.length) {
+      textElement.textContent += currentLine.text.charAt(charIndex);
+      charIndex++;
+      setTimeout(typeEffect, 50);
+    } else {
+      // Wait, then erase
+      setTimeout(eraseEffect, 800);
+    }
+  }
+
+  function eraseEffect() {
+    if (charIndex > 0) {
+      const currentLine = lines[lineIndex];
+      textElement.textContent = currentLine.text.substring(0, charIndex - 1);
+      charIndex--;
+      setTimeout(eraseEffect, 30);
+    } else {
+      // Move to next line
+      lineIndex++;
+      charIndex = 0;
+      setTimeout(typeEffect, 300);
+    }
+  }
+
+  typeEffect();
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
