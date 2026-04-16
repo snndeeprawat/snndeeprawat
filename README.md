@@ -83,4 +83,4 @@
 
 ---
 
-🚀 **Actively seeking Data Analyst Internship opportunities**
+🚀 **Actively seeking Data Analyst Internship and Job opportunities**
