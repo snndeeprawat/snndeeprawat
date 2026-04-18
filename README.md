@@ -13,19 +13,19 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 **Data Analyst** skilled in **Python, SQL, Power BI, and Excel**, focused on solving real-world business problems using data.
 
-- 🎓 B.Tech CSE (2023–2027)  
-- 📊 Strong in **EDA, Data Cleaning & Visualization**  
-- 📈 Experience with **real-world datasets**  
-- 🎯 Goal: Deliver **data-driven insights for business growth**
+- B.Tech CSE (2023–2027)  
+- Strong in **EDA, Data Cleaning & Visualization**  
+- Experience with **real-world datasets**  
+- Goal: Deliver **data-driven insights for business growth**
 
 ---
 
-### 📊 Featured Projects
+### Featured Projects
 
-#### 🛒 E-Commerce Data Analysis
+#### E-Commerce Data Analysis
 - Cleaned and transformed messy datasets using **Python (Pandas)**
 - Performed **SQL analysis** to extract revenue insights
 - Built **Power BI dashboard** with KPIs and trends
@@ -33,7 +33,7 @@
 
 ---
 
-#### 🎬 Netflix Data Analysis
+#### Netflix Data Analysis
 - Handled missing values and cleaned dataset
 - Performed **EDA on genres and ratings**
 - Visualized trends using **Matplotlib & Seaborn**
@@ -41,7 +41,7 @@
 
 ---
 
-### 🧰 Technical Toolkit
+### Technical Toolkit
 <table align="center">
   <tr>
     <td align="center" width="33%"><strong>Languages</strong></td>
@@ -70,7 +70,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="38%" />
@@ -78,11 +78,11 @@
 
 ---
 
-### 📬 Connect with Me
-- 🌐 Portfolio: (Add your portfolio link here)  
-- 💼 LinkedIn: (Add your LinkedIn link here)  
-- 📧 Email: sandeeprawat0500@gmail.com  
+### Connect with Me
+- Portfolio: (Add your portfolio link here)  
+- LinkedIn:  https://www.linkedin.com/in/sandeep-kumar-015a62403/ 
+- Email: sandeeprawat0500@gmail.com  
 
 ---
 
-🚀 **Actively seeking Data Analyst Internship and Job opportunities**
+**Actively seeking Data Analyst Internship and Job opportunities**
